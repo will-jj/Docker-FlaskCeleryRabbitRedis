@@ -1,5 +1,5 @@
 #!/bin/sh
 
-cd WJ 
+cd strava_flask 
 
-su -m wj -c "python wj.py"
+su -m wj -c "python app.py"

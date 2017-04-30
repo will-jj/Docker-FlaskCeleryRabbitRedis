@@ -16,5 +16,5 @@ rauth
 requests
 
 
-stravalib
+
 

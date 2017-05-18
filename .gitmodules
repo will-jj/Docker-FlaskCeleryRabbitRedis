@@ -1,6 +1,6 @@
 [submodule "strava_flask"]
 	path = strava_flask
-	url = git@github.com:will-jj/strava_flask.git
+	url = https://github.com/will-jj/strava_flask.git
 [submodule "stravalib"]
 	path = stravalib
-	url = git@github.com:hozn/stravalib.git
+	url = https://github.com/will-jj/strava_flask.git

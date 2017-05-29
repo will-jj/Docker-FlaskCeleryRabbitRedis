@@ -2,7 +2,7 @@ msgpack-python
 celery[redis]
 matplotlib
 flask
-
+uwsgi
 
 Flask-Login
 Flask-SQLAlchemy
